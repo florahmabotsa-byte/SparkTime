@@ -45,10 +45,8 @@ Allows the user to enter time of day
 -Expand the list of interactin suggestions
 -Add notifications or reminders
 
-
-## Screenshots
-
-(Add screenshot of your app here)
+## Demo Video
+Check out my app demo here:
 
 
 ## Author
