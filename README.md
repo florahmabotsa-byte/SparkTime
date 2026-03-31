@@ -47,7 +47,8 @@ Allows the user to enter time of day
 
 ## Screenshots
 
-[Screen 1](screenshot%202026-03-30%20234907.png)
+![Screen 1](screenshorts/screen1.png)
+![Screen 2](screenshorts/screen2.png)
 
 
 
