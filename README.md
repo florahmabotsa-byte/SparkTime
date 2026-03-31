@@ -45,14 +45,16 @@ Allows the user to enter time of day
 -Expand the list of interactin suggestions
 -Add notifications or reminders
 
-## Screenshots
-
-[Screen 1](screenshot%202026-03-30%20234907.png)
-
-
+## screenshots
+<img src="screenshots/screen1.png" width="400">
+<img src="screenshots/screen2.png" width="400">
+<img src="screenshots/screen3.png" width="400">
+<img src="screenshots/screen4.png" width="400">
+<img src="screenshots/screen5.png" width="400">
 
 ## Demo Video
 Check out my app demo here:
+https://youtube.com/shorts/o9LKdB85VlA?si=R6dAp8FV0Wf4KJz6
 
 
 ## Author
