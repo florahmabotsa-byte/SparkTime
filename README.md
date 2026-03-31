@@ -45,10 +45,9 @@ Allows the user to enter time of day
 -Expand the list of interactin suggestions
 -Add notifications or reminders
 
-## Screenshots
-
-![Screen 1](screenshorts/screen1.png)
-![Screen 2](screenshorts/screen2.png)
+## screenshots
+<img src="screenshots/screen1.png" width="300">
+<img src="screenshots/screen2.png" width="300">
 
 
 
