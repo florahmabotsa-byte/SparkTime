@@ -46,8 +46,12 @@ Allows the user to enter time of day
 -Add notifications or reminders
 
 ## screenshots
-<img src="screenshots/screen1.png" width="300">
-<img src="screenshots/screen2.png" width="300">
+<img src="screenshots/screen1.png" width="400">
+<img src="screenshots/screen2.png" width="400">
+<img src="screenshots/screen3.png" width="400">
+<img src="screenshots/screen4.png" width="400">
+<img src="screenshots/screen5.png" width="400">
+
 
 
 
