@@ -53,7 +53,8 @@ Allows the user to enter time of day
 <img src="screenshots/screen5.png" width="400">
 
 ## Demo Video
-Check out my app demo here:https://youtube.com/shorts/o9LKdB85VlA?si=R6dAp8FV0Wf4KJz6
+Check out my app demo here:
+https://youtube.com/shorts/o9LKdB85VlA?si=R6dAp8FV0Wf4KJz6
 
 
 ## Author
